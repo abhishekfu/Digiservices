@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-digiservicesv1-dev-180132-authRole",
+      "UnauthRoleArn": "arn:aws:iam::560738377971:role/amplify-digiservicesv1-dev-180132-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::560738377971:role/amplify-digiservicesv1-dev-180132-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-digiservicesv1-dev-180132-deployment",
+      "UnauthRoleName": "amplify-digiservicesv1-dev-180132-unauthRole",
+      "StackName": "amplify-digiservicesv1-dev-180132",
+      "StackId": "arn:aws:cloudformation:us-east-1:560738377971:stack/amplify-digiservicesv1-dev-180132/8061b140-2bf5-11eb-94f7-0acfa743837d",
+      "AmplifyAppId": "d1hlfbh7wgignm"
+    },
+    "categories": {
+      "auth": {
+        "digiservicesv162c4521c": {}
+      }
+    }
+  }
+}
